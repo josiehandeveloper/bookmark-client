@@ -1,0 +1,23 @@
+.Addbookmark {
+    width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);
+  }
+  
+  .Addbookmark__buttons {
+    margin-top: 5px;
+    padding: 10px;
+    text-align: right;
+  }
+  
+  .Addbookmark__form input, .Addbookmark__form textarea, .Addbookmark__form label {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .Addbookmark__form label {
+    text-align: left;
+    font-size: 0.9em;
+  }
